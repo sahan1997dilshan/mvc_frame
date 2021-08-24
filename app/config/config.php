@@ -1,10 +1,10 @@
 <?php 
  //DB params
 
- define('DB_HOST','HOST');
- define('DB_USER','USERNAME');
- define('DB_PASS','USER_PASSWORD');
- define('DB_NAME','USER_DB');
+ define('DB_HOST','localhost');
+ define('DB_USER','root');
+ define('DB_PASS','');
+ define('DB_NAME','tmvc');
  //app root
  define('APPROOT', dirname(dirname(__FILE__)));
  //URL Root Directory
