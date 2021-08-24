@@ -9,5 +9,5 @@
  define('APPROOT', dirname(dirname(__FILE__)));
  //URL Root Directory
  define('ROOTURL','http://localhost/traversymvc');
- //Site name
+ //Site nam
  define('SITENAME','TravesyMVC');
