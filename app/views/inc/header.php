@@ -8,4 +8,5 @@
     <title><?php echo SITENAME?></title>
 </head>
 <body>
+    <h1>I am sri lanka citizen</h1>
     
